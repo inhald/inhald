@@ -1,4 +1,5 @@
-👋 Hi, I’m Dhilan
+• 👋 Hi, I’m Dhilan
+
 • 🏫 I am a Mechatronics Engineering student at the McMaster University
 
 • 🌱 I'm currently on McMaster Robomaster's Controls Team. 
