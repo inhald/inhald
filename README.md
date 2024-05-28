@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhilan</h1>
-<h3 align="center">A passionate Mechatronics Engineering Student from McMaster University</h3>
+<h3 align="center">A Mechatronics Engineering Student from McMaster University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inhald&label=Profile%20views&color=0e75b6&style=flat" alt="inhald" /> </p>
 
