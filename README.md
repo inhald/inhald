@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inhald&label=Profile%20views&color=0e75b6&style=flat" alt="inhald" /> </p>
 
-- 🌱 I’m currently learning **Embedded Systems, Logic Design and Control Theory**
+- 🌱 old school low-level embedded programmer using vim and coding in the terminal. 
 
 - 📫 How to reach me **teeluckn@mcmaster.ca**
 
