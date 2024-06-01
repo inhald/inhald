@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhilan</h1>
 <h3 align="center">A Mechatronics Engineering Student from McMaster University</h3>
 
-- 🌱 old school low-level embedded programmer using vim and coding in the terminal. 
+- 🌱 embedded programmer
 
 - 📫 How to reach me **teeluckn@mcmaster.ca**
 
