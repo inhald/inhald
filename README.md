@@ -1,6 +1,6 @@
-### Hello! 👋 I'm Dhilan. 
-  • 🏫 I am a Mechatronics Engineering Student at McMaster University\
-  • 💼 Previously, I developed Autonomous Systems @ Telerobotics, Haptics and Computational Vision Laboratory\
-  • 🎣 In my spare time, I like to go fishing\
-  • 🍀 You can contact me at teeluckn@mcmaster.ca
+### hi! 👋 i'm dhilan. 
+  • 🏫 i study Mechatronics Engineering at McMaster University\
+  • 💼 i developed real-time self-driving software @ telerobotics, haptics and computational vision lab\
+  • 🎣 i like to fish.\
+  • 🍀 i can be reached at teeluckn@mcmaster.ca
 
