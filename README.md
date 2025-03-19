@@ -2,7 +2,7 @@
 
 I'm a Mechatronics Engineering student at McMaster University. 
 
-I am interested in robotics, and have developed a [Real-Time Self-Driving Software Stack](https://github.com/inhald/svm_self_driving) as well as a [ROS2 State Estimation Node](https://github.com/inhald/state_estimation_node) under the supervision of [Dr. Shahin Sirouspour](https://scholar.google.com/citations?user=9KcS4cMAAAAJ&hl=en).
+I am interested in robotics, and have developed a [Real-Time Self-Driving Software Stack](https://github.com/inhald/svm_self_driving) as well as a [State Estimation Node](https://github.com/inhald/state_estimation_node) under the supervision of [Dr. Shahin Sirouspour](https://scholar.google.com/citations?user=9KcS4cMAAAAJ&hl=en).
 
 Another project I am quite proud of is the [Self-Balancing Robot](https://github.com/inhald/self_balancing_robot) I designed from scratch, which features a multithreaded PID control loop. 
 
