@@ -2,9 +2,10 @@
 
 I'm a Mechatronics Engineering student at McMaster University. 
 
-I am passionate about robotics, and have developed a [real-time self-driving software stack](https://github.com/inhald/svm_self_driving) as an NSERC USRA Research Student under the supervision of [Dr. Shahin Sirouspour](https://scholar.google.com/citations?user=9KcS4cMAAAAJ&hl=en). 
+I am interested in robotics, and have developed a [Real-Time Self-Driving Software Stack](https://github.com/inhald/svm_self_driving) as well as a [ROS2 State Estimation Node](https://github.com/inhald/state_estimation_node) under the supervision of [Dr. Shahin Sirouspour](https://scholar.google.com/citations?user=9KcS4cMAAAAJ&hl=en).
 
-  • 🏫 i study mechatronics engineering @ mcmasteru\
-  • 💼 i developed real-time self-driving software @ telerobotics, haptics and computational vision lab\
-  • 🍀 i can be reached at teeluckn@mcmaster.ca
+Another project I am quite proud of is the [Self-Balancing Robot](https://github.com/inhald/self_balancing_robot) I designed from scratch, which features a multithreaded PID control loop. 
 
+I also have considerable experience in embedded systems, having designed a [2-Player Reaction Game on FPGA] (https://github.com/inhald/verilog_ws/tree/main/reaction_game) as well as a number of small projects on an STM32 Microcontroller, including a [Temperature-triggered PWM-FAN] (https://github.com/inhald/stm32_embedded_projects/tree/main/PWM-Fan). 
+
+I code using a combination of Vim and Tmux on Z-shell. My up-to-date configs can be found [here](https://github.com/inhald/configs).
