@@ -8,4 +8,4 @@ Another project I am proud of is the [Self-Balancing Robot](https://github.com/i
 
 I have considerable experience in embedded systems, having designed a [ASIP Stepper Motor Controller](https://github.com/inhald/asip_stepper_motor) as well as a number of small projects on an STM32 Microcontroller, including a [Temperature-triggered PWM-Fan](https://github.com/inhald/stm32_embedded_projects/tree/main/PWM-Fan). 
 
-I also have a [personal website](https://inhald.github.io).
+My portfolio can be found [here](https://inhald.github.io).
